@@ -131,7 +131,7 @@ a:hover::before {
   transition: all 1s ease;
   box-sizing: border-box;
   border-radius: 10px;
-  margin-bottom: 0px;
+  margin: 0px;
 }
 #b1:hover::before {
   width: 100%;
