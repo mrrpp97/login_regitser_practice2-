@@ -162,6 +162,7 @@ section h2 {
   justify-content: center;
   align-items: center;
   width: 70%;
+  z-index: -10;
 }
 #f {
   display: flex;
