@@ -4,6 +4,7 @@ body {
   padding: 0;
   background-color: #111;
   z-index: 0;
+  height: 3000px;
 }
 
 h3 {
@@ -33,6 +34,7 @@ div {
   overflow: hidden;
   flex-wrap: wrap;
   background: rgba(10, 8, 8, 0.8);
+  z-index: 1000;
 }
 
 a {
