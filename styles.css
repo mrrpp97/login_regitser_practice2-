@@ -164,7 +164,7 @@ section h2 {
   justify-content: center;
   align-items: center;
   width: 70%;
-  z-index: -10;
+  z-index: 0;
 }
 #f {
   display: flex;
@@ -208,7 +208,7 @@ label {
   color: rgb(168, 38, 38);
   margin: 0.5em 2em;
 }
-#ip {
+.ip {
   background: none;
   outline: none;
   border: none;
@@ -247,8 +247,8 @@ p {
     letter-spacing: 0.2em;
   }
 }
-#ip:hover,
-#ip:focus {
+.ip:hover,
+.ip:focus {
   background: rgb(201, 184, 184);
   color: rgb(168, 38, 38);
 }
